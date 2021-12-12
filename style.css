@@ -1,7 +1,7 @@
 body {
   background-color: #F0E9D2;
     font-family: sans-serif;
-}
+} 
 
 .kellerwilliams {
   background-color: #E6DDC4;
@@ -24,3 +24,7 @@ body {
   
 }
 
+.summary {
+  text-align: center;
+
+}
