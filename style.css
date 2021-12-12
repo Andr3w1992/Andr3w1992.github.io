@@ -7,6 +7,8 @@ body {
   background-color: green;
   font-family: sans-serif;
   text-align: center;
+  font-size: large;
+  
 }
   
 .exp-header {
@@ -16,3 +18,9 @@ body {
   border-bottom: 1px solid #dddddd;
   background-color: white (0,0,0, 0.1)
 }
+
+.logo {
+  text-align: center;
+  
+}
+
